@@ -5,7 +5,7 @@
 
 
 # Hi, I am GN
-Filipino · Male · 20
+Filipino · Male · 21
 
 You may know as **GNUI**, **GN68s** or **GNamimates**. <br>
 one way to identify me is by finding my prefix **GN**
@@ -41,6 +41,3 @@ Program|University|Timeline
 **Bachelor of Computer Science (BSCS)** | New Era University [NEU] | **2024 - Present**
 </div>
 </details>
-
-> ### NOTE
-> Currently completing my CS degree, Not available for hire / open to work at this time. So please stop messaging me, I still have years to go.
