@@ -5,18 +5,16 @@
 
 
 # Hi, I am GN
-Filipino · Male · 21
+PH Based 3D Digital Artist & Animator and Programmer.
 
 You may know as **GNUI**, **GN68s** or **GNamimates**. <br>
 one way to identify me is by finding my prefix **GN**
 
-I am a 3D Digital Artist & Animator and Programmer. I equally cherish all my hobbies
-
 ### Socials & Shops
-[`Bluesky`](https://bsky.app/profile/gnon.top) [`Discord`](https://discord.com/) [`Email`](mail@gnon.top) [`Youtube`](https://www.youtube.com/@GNamimates)  
+[`Discord`](https://discord.com/) [`Email`](mail@gnon.top) [`Youtube`](https://www.youtube.com/@GNamimates)  
 [`Kofi`](https://gnon.top/about) [`Itch.io`](https://gnui.itch.io/) [`Modrinth`](https://modrinth.com/user/GN)  
 
-
+Please ignore all the repositories with an underscore prefix ie. `_balls`, those are for Academic work, and dont really respresent what I do for passion.
 <details>
 
 <summary>University Required Info</summary>
